@@ -1,0 +1,4 @@
+C:\Users\CHMATHEN\Documents\GitHub\OfficeDevCamps\05.Building SharePoint Add-ins using Search\Completed Projects\EmployeeDirectory\EmployeeDirectory\bin\Debug\EmployeeDirectory.dll.config
+C:\Users\CHMATHEN\Documents\GitHub\OfficeDevCamps\05.Building SharePoint Add-ins using Search\Completed Projects\EmployeeDirectory\EmployeeDirectory\bin\Debug\EmployeeDirectory.pdb
+C:\Users\CHMATHEN\Documents\GitHub\OfficeDevCamps\05.Building SharePoint Add-ins using Search\Completed Projects\EmployeeDirectory\EmployeeDirectory\obj\Debug\EmployeeDirectory.dll
+C:\Users\CHMATHEN\Documents\GitHub\OfficeDevCamps\05.Building SharePoint Add-ins using Search\Completed Projects\EmployeeDirectory\EmployeeDirectory\obj\Debug\EmployeeDirectory.pdb

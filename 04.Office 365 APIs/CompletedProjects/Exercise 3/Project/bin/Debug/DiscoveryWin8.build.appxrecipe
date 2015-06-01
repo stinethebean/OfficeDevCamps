@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MATHENEYC-SP3</Machine>
+    <WindowsUser>chmathen</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e4a10a81-a4ee-43cd-ae71-5f3c7e681298</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\bin\Debug\Win8ServiceDiscovery.exe">
+      <PackagePath>Win8ServiceDiscovery.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\bin\Debug\Win8ServiceDiscovery.xr.xml">
+      <PackagePath>Win8ServiceDiscovery.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

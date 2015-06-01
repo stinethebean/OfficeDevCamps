@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MATHENEYC-SP3</Machine>
+    <WindowsUser>chmathen</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e4a10a81-a4ee-43cd-ae71-5f3c7e681298</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>88AD4BFC5765BE3D231D5E1C0F0A0A58E10654053A660E6B05D9C5AEE52E9EB0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e4a10a81-a4ee-43cd-ae71-5f3c7e681298_1.1.0.0_neutral__1mn5hj8v78eka</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e4a10a81-a4ee-43cd-ae71-5f3c7e681298_1mn5hj8v78eka!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e4a10a81-a4ee-43cd-ae71-5f3c7e681298</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=prueker</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-01T02:03:46.139</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\bin\Debug\Win8ServiceDiscovery.exe">
+      <PackagePath>Win8ServiceDiscovery.exe</PackagePath>
+      <Modified>2015-06-01T02:03:45.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-21T19:12:03.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-21T19:12:03.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-21T19:12:03.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-21T19:12:03.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-01T02:03:45.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2015-06-01T02:03:45.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-06-01T02:03:45.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\bin\Debug\Win8ServiceDiscovery.xr.xml">
+      <PackagePath>Win8ServiceDiscovery.xr.xml</PackagePath>
+      <Modified>2015-06-01T02:03:45.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CHMATHEN\Documents\GitHub\TrainingContent\O3653-1 Deep Dive into Azure AD with the Office 365 APIs\CompletedProjects\Exercise 3\Project\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-01T02:03:45.974</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
