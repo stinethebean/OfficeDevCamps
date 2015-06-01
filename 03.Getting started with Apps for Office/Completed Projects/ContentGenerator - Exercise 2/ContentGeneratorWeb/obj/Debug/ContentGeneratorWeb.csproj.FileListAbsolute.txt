@@ -1,0 +1,5 @@
+C:\Users\CHMATHEN\Documents\GitHub\O365CampDTW\0.3 Getting started with Apps for Office\Completed Projects\ContentGenerator - Exercise 2\ContentGeneratorWeb\bin\ContentGeneratorWeb.dll.config
+C:\Users\CHMATHEN\Documents\GitHub\O365CampDTW\0.3 Getting started with Apps for Office\Completed Projects\ContentGenerator - Exercise 2\ContentGeneratorWeb\bin\ContentGeneratorWeb.dll
+C:\Users\CHMATHEN\Documents\GitHub\O365CampDTW\0.3 Getting started with Apps for Office\Completed Projects\ContentGenerator - Exercise 2\ContentGeneratorWeb\bin\ContentGeneratorWeb.pdb
+C:\Users\CHMATHEN\Documents\GitHub\O365CampDTW\0.3 Getting started with Apps for Office\Completed Projects\ContentGenerator - Exercise 2\ContentGeneratorWeb\obj\Debug\ContentGeneratorWeb.dll
+C:\Users\CHMATHEN\Documents\GitHub\O365CampDTW\0.3 Getting started with Apps for Office\Completed Projects\ContentGenerator - Exercise 2\ContentGeneratorWeb\obj\Debug\ContentGeneratorWeb.pdb

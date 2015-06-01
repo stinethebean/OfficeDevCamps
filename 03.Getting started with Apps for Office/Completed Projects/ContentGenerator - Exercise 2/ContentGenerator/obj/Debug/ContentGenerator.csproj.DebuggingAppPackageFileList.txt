@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\ContentGeneratorManifest.xml
+C:\Users\CHMATHEN\Documents\GitHub\O365CampDTW\0.3 Getting started with Apps for Office\Completed Projects\ContentGenerator - Exercise 2\ContentGenerator\bin\Debug\ContentGenerator.debugapp

@@ -1,0 +1,7 @@
+False
+c0c82088-7ed5-4f7d-bfc4-a6bdda3b54a8c95fdbc3-ec31-4ac3-a577-521ea8d3dabe
+{9646a101-1454-4f6f-b668-7f9547126a86}{9ac4a954-f24b-49ee-bae2-e60096ed8606}
+{64e8b7b6-eea2-48db-804c-e494fd6f8b1d}
+1.0.0.0
+ContentGenerator
+_layouts/15/
