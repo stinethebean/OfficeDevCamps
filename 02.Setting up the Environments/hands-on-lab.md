@@ -28,9 +28,10 @@ Follow these steps to sign up for an Office 365 developer subscription.
   
 1. **Start** Internet Explorer 
 
-2.  Browse to address http://office.microsoft.com/en-us/business/redir/XT103040319.aspx 
-  a.  This is the trial request for E3 tenants. You can also find the link to this trial option from http://office.microsoft.com. 
-  NOTE: The trial request page link may have moved since the writing of this lab. You may need to search for the link in the sub-pages under **Plans & Pricing.**
+2.  Navigate to the [Office Dev Center](http://msdn.microsoft.com/en-us/library/office/fp179924(v=office.15).aspx)   Under the heading **Sign up for an Office 365 Developer Site** click **Try It Free**.<br/>
+  ![](img/1.png?raw=true "Figure 1")
+  
+
   
 
 3.  Fill out the form with your personal information accordingly (phone number, email address , company name etc.) and click the ** next ** button below the form to move to next step. 
